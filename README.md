@@ -11,7 +11,6 @@ This script is useful for gathering image datasets for computer vision applicati
 - [License](#license)
 
 ## Installation
-
 To use the script, you need to have Python and the following libraries installed:
 
 - `selenium`
@@ -27,7 +26,6 @@ pip install selenium selenium-stealth pillow requests
 Ensure you have the Chrome browser installed and the appropriate version of ChromeDriver for your browser version.
 
 ## Usage
-
 - Clone this repository:
 ```bash
 git clone https://github.com/your-username/Google_Image_Scraping.git
@@ -50,19 +48,19 @@ The script includes functions to:
 - Handle scrolling and clicking elements to load more images.
 - Save images to the specified directory.
 
-  ## Features
-  - Automatic Directory Creation: Creates a folder for each searc
-  - Full-Size Image Scraping: Scrapes full-size images.
-  - Customizable Search Terms: Easily modify the list of search terms.
-  - Error Handling: Handles errors during image download and page interactions.
+## Features
+- Automatic Directory Creation: Creates a folder for each searc
+- Full-Size Image Scraping: Scrapes full-size images.
+- Customizable Search Terms: Easily modify the list of search terms.
+- Error Handling: Handles errors during image download and page interactions.
  
-  ## Contributing
-  Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-  - Fork the repository.
-  - Create your feature branch: `git checkout -b feature/your-feature-name`
-  - Commit your changes: `git commit -m 'Add some feature'`
-  - Push to the branch: `git push origin feature/your-feature-name`
-  - Open a pull request.
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+- Fork the repository.
+- Create your feature branch: `git checkout -b feature/your-feature-name`
+- Commit your changes: `git commit -m 'Add some feature'`
+- Push to the branch: `git push origin feature/your-feature-name`
+- Open a pull request.
  
-    ## License
-    This project is licensed under the [MIT License](/LICENSE) - see the LICENSE file for details.
+## License
+This project is licensed under the [MIT License](/LICENSE) - see the LICENSE file for details.
